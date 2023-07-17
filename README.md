@@ -1,11 +1,9 @@
-
+[![MasterHead](https://github.com/vishallsinghh/vishallsinghh/assets/68636367/6ca4ad44-4c87-41d2-8c82-7d62f1204b20)
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 <img width="400" align="right" alt="coding" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishallsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="vishallsinghh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishallsinghh" alt="vishallsinghh" /></a> </p>
 
 - 🌱 I’m currently learning **MERN, Django, Opencart**
 
@@ -15,6 +13,9 @@
 
 - ⚡ Fun fact **I like to dance, play guitar and piano**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishallsinghh&label=Profile%20views&color=0e75b6&style=flat" alt="vishallsinghh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishallsinghh" alt="vishallsinghh" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vishalsingh173911/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishalsingh173911/" height="30" width="40" /></a>
